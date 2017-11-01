@@ -1,10 +1,10 @@
 # Bestemor Rev
 
 ##
-Bestemore Rev går...
+Bestemor Rev går...
 
 ##
-gjennom skokgen
+gjennom skogen
 
 ##
 over åsen
