@@ -81,4 +81,4 @@ La oss leke ute!
 * Illustration: Caylie Gnyra
 * Translation: Espen Stranger-Johannessen
 * Level: Level 2
-* Language: en
+* Language: no
