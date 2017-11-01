@@ -51,4 +51,4 @@ Lille Bjørn går til sengs.
 * Illustration: Caylie Gnyra
 * Translation: Espen Stranger-Johannessen
 * Level: Level 1
-* Language: en
+* Language: no
