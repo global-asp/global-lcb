@@ -46,7 +46,7 @@ Mamma sier at det er kaldt og regner ute.
 Jeg tar på meg underbuksene
 
 ##
-og stilongsene
+og stillongsene
 
 ##
 og buksene
