@@ -10,7 +10,7 @@ Pequeño Oso agradece.
 Pequeño Oso se viste.
 
 ##
-Pequeño Oso lava la cara.
+Pequeño Oso se lava la cara.
 
 ##
 Pequeño Oso desayuna.
@@ -37,7 +37,7 @@ Pequeño Oso vuelve a casa.
 Pequeño Oso cena.
 
 ##
-Pequeño Oso lava los dientes.
+Pequeño Oso se lava los dientes.
 
 ##
 Pequeño Oso se pone la piyama.
