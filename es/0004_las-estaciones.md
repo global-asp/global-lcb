@@ -58,7 +58,7 @@ y la camisa
 y los calcetines
 
 ##
-y la chaqueta de invierno
+y el abrigo de invierno
 
 ##
 y las botas de invierno
@@ -70,7 +70,7 @@ y la gorra
 y la bufanda
 
 ##
-y las manoplas.
+y los guantes.
 
 ##
 Juguemos afuera!
